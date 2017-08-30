@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	float F,C ;
-	cout<<"enter distance in celsius:";
+	cout<<"enter temperature in celsius:";
 	cin>>C;
 	F=(C*9/5)+32;
 	cout<<"the temperature in fahrenheit is:"<<F;
